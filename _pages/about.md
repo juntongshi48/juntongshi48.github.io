@@ -8,7 +8,7 @@ profile:
   align: right
   image: js_profile_img.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: <p>email: <a href="mailto:shisteve@usc.edu">shisteve@usc.edu</a> </p>
+  more_info: "<p>email: <a href="mailto:shisteve@usc.edu">shisteve@usc.edu</a> </p>"
   # >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
