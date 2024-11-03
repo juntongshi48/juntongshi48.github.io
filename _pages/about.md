@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="mailto:shisteve@usc.edu">shisteve@usc.edu</a>
+subtitle:
 
 profile:
   align: right
   image: js_profile_img.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: <a href="mailto:shisteve@usc.edu">shisteve@usc.edu</a>
   # >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
