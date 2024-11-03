@@ -8,7 +8,7 @@ profile:
   align: right
   image: js_profile_img.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: <p>email <a href="mailto:shisteve@usc.edu">shisteve@usc.edu</a> </p>
+  more_info: <p>email: <a href="mailto:shisteve@usc.edu">shisteve@usc.edu</a> </p>
   # >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Juntong "Steven" Shi, a undergraduate senior at [University of Southern California](https://www.usc.edu/) (USC) studying computer science and applied mathematics.
+I'm Juntong "Steven" Shi, a undergraduate senior at [University of Southern California](https://www.usc.edu/) (USC) studying computer science and applied mathematics. My research interests focuses on machine learning, with an emphasis on developing **generative models** that can handle heterogenous data structures for various real-world problems.
