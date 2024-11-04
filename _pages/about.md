@@ -9,7 +9,7 @@ profile:
   image: js_profile_img.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>photo: m as a sailer ⛵️</p>
+    <p>photo: me as a sailer ⛵️</p>
   # >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
