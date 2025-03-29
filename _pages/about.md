@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Juntong "Steven" Shi, an undergraduate senior at [University of Southern California](https://www.usc.edu/) 
-(USC), studying computer science and applied mathematics. 
-My research focuses on developing principled and scalable **generative models** for irregular and heterogeneous data modalities. 
+I'm Juntong "Steven" Shi, an undergraduate senior at [University of Southern California](https://www.usc.edu/)
+(USC), studying computer science and applied mathematics.
+My research focuses on developing principled and scalable **generative models** for irregular and heterogeneous data modalities.
 I'm also passionate about leveraging these models to tackle socially impactful challenges in science and healthcare.
